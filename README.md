@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name              | Description                     | GitHub's Link                                            |
 |:--:|:-------------------------:|:-------------------------------:|:--------------------------------------------------------:|
-| 1 |python-project-for-week-8   |The calculation of total profit  | https://github.com/Yettyfad/python-project-for-week-8.git|
-| 2 |linkedln-profile-analysis   |Analysis of my LinkedIn profile  | https://github.com/Yettyfad/linkedln-profile-analysis.git|
-| 3 |my-first-sql-project        |This project uses sql query      | https://github.com/Yettyfad/my-first-sql-project.git     |
+| 1 |python-project-for-week-8   |The calculation of total profit  |https://github.com/Yettyfad/python-project-for-week-8.git|
+| 2 |linkedln-profile-analysis   |Analysis of my LinkedIn profile  |https://github.com/Yettyfad/linkedln-profile-analysis.git|
+| 3 |my-first-sql-project        |This project uses sql query      |https://github.com/Yettyfad/my-first-sql-project.git     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
